@@ -68,6 +68,9 @@ slackやGoogle meet, zoomなどで相談を受け付けています。次に例�
 - [Campfire](https://once.com/campfire)ソースコードリーディング
 - 新しいRailsのバージョンの主な新機能についてシェアする会
 - Railsでセキュアなアプリケーションを書くための心得をシェアする会
+- 過去のRuby関連のカンファレンスにおける登壇内容の再演
+  - 発表スライド: [Shinichi Maeshima (@willnet) on Speaker Deck](https://speakerdeck.com/willnet)
+
 
 #### ペアプロ、モブプロ
 
